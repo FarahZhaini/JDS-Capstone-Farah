@@ -6,7 +6,7 @@ EDS_Capstone_SC_(Group_2).ipynb : Jupyter notebook containing codes.
 
 data.csv : dataset used for model building.
 
-Capstone JDS 2022 - Group 2 : powerpoint presentation for project.
+Capstone JDS 2022 - Group 2.pdf : powerpoint presentation for project.
 
 **Project includes:** 
 (a) data pre-processing (data cleaning and EDA)
