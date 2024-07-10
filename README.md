@@ -3,12 +3,14 @@ Design a predictive machine learning model to determine 'potential customer' fro
 Updated: 10/7/2024
 
 EDS_Capstone_SC_(Group_2).ipynb : Jupyter notebook containing codes.
+
 data.csv : dataset used for model building.
+
 Capstone JDS 2022 - Group 2 : powerpoint presentation for project.
 
 **Project includes:** 
-a) data pre-processing (data cleaning and EDA)
-b) feature engineering
+\na) data pre-processing (data cleaning and EDA)
+\nb) feature engineering
 c) feature selection
 d) predictive models
 e) model evaluation 
